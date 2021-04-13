@@ -1,10 +1,10 @@
-categories,image,subcategory
-milk,milk.png,yes
-fruits,fruits.png,no
-vegetables,vegetables.png,no
-masala,masala.png,yes
-staples_tea,staples_tea.png,yes
-beverages,beverages.png,yes
-masala_oil,masala_oil.png,yes
-Cookies  ,cookies.png,yes
-patanjali,patanjali.png,no
+categories,image,subcategory,name
+milk,milk.png,yes,milk
+fruits,fruits.png,no,fruits
+vegetables,vegetables.png,no,vegetables
+masala,masala.png,yes,masala
+staples_tea,staples_tea.png,yes,staples tea
+beverages,beverages.png,yes,beverages
+masala_oil,masala_oil.png,yes,masala oil
+cookies  ,cookies.png,yes,Cookies  
+patanjali,patanjali.png,no,patanjali
