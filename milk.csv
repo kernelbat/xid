@@ -1,4 +1,6 @@
-image,brand,sub_catagories
-amul-png-3.png,amul,no
-gokul.png,gokul,no
-Motherdairy.png,motherdairy,no
+brand,image
+AMUL,amul.png
+GOKUL,gokul.png
+MOTHER DAIRY,motherdairy.png
+DAIRY POWER,dairy_power.png
+MAHANANDA,mahananda.png
