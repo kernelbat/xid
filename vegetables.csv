@@ -1,4 +1,4 @@
-Company,Image,Product_name,Quantity,Apna price,Mrp
+company,image,product_name,quantity,apna_daily,mrp_price
 APNADAILY,beet.png,Beet,500 gms,30,32
 APNADAILY,Bittermelo.jpg,Bittermelo,500 gms,30,32
 APNADAILY,cabage.png,cabage,500 gms,30,32
