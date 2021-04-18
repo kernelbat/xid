@@ -4,7 +4,7 @@ fruits,fruits.png,no,fruits
 vegetables,vegetables.png,no,vegetables
 masala,masala.png,yes,masala
 staples_tea,staples_tea.png,yes,staples tea
-beverages,beverages.png,yes,beverages
-masala_oil,masala_oil.png,yes,masala oil
+beverages,beverages.png,no,beverages
+oil_masala,masala_oil.png,yes,masala oil
 cookies  ,cookies.png,yes,Cookies  
 patanjali,patanjali.png,no,patanjali
