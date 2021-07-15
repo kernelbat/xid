@@ -1,0 +1,255 @@
+article_no,brand,image,name,quantity,mrp_price,apna_daily,category
+PJ001,patanjali,arhar dal tuvar dal unpolished.jpg,arhar dal (tuvar dal) unpolished,500gm,100,100,patanjali
+PJ002,patanjali,atta noodle.jpg,atta noodles desi masala,60gm,10,10,patanjali
+PJ003,patanjali,atta noodles chatpata.jpg,atta noodles chatpataa,240gm,40,40,patanjali
+PJ004,patanjali,atta noodles.jpg,atta noodles,60gm,10,10,patanjali
+PJ005,patanjali,badam rogan.jpg,divya badam rogan,60 ml,245,245,patanjali
+PJ006,patanjali,black pepper whole 100g.jpg,black pepper whole 100gm,100gm,24,24,patanjali
+PJ007,patanjali,chat masala.jpg,chat masala,100gm,45,45,patanjali
+PJ008,patanjali,chhole masala.jpg,chhole masala,100gm,50,50,patanjali
+PJ009,patanjali,coriander powder200gm..jpg,coriander powder 200gm,200gm,40,40,patanjali
+PJ010,patanjali,cow ghee.jpg,cow ghee - 1L,1000gm,565,565,patanjali
+PJ011,patanjali,cumin whole 100g.jpg,cumin whole 100gm,100gm,40,40,patanjali
+PJ012,patanjali,dhanashri basmati rice 1kg.jpg,dhanashri basmati rice 1kg,1000gm,118,118,patanjali
+PJ013,patanjali,dibetic care atta 1 kg.jpg,diabetic care atta 1 kg,1000gm,85,85,patanjali
+PJ014,patanjali,kachi ghani mastard oil.jpg,kachi ghani mustard oil,1000gm,165,165,patanjali
+PJ015,patanjali,kesh kanti almod.jpg,kesh kanti almond hair oil,100gm,50,50,patanjali
+PJ016,patanjali,kesh kanti amla.jpg,kesh kanti amla hair oil,50ml,20,20,patanjali
+PJ017,patanjali,kesh kanti oil.jpg,kesh kanti oil,50ml,30,30,patanjali
+PJ018,patanjali,mitti atta 1kg.jpg,missi atta 1kg,1000gm,60,60,patanjali
+PJ019,patanjali,mix pulses unpolished.jpg,unpolished mix pulses,1000gm,124,124,patanjali
+PJ020,patanjali,moong dal chilka unpolised.jpg,unpolished moong dal chilka,1000gm,142,142,patanjali
+PJ021,patanjali,moong dal dhuli unpolised.jpg,unpolished moong dal dhuli,1000gm,148,148,patanjali
+PJ022,patanjali,nariyan tel.jpg,Coconut oii (nariyal tel) 200ml,200ml,95,95,patanjali
+PJ023,patanjali,navratna atta.jpg,navratna atta,2000gm,140,140,patanjali
+PJ024,patanjali,red chilli 200g.jpg,red chilli powder 200gm,200gm,70,70,patanjali
+PJ025,patanjali,rich brain oil 1.jpg,rich bran oil 1kg,1000gm,125,125,patanjali
+PJ026,patanjali,sabzi masala 100g.jpg,sabzi masala 100gm,100gm,45,45,patanjali
+PJ027,patanjali,sarvogun sampana chakki fresh atta.jpg,sarvgun sampana chakki fresh atta - 5kg,5000gm,160,160,patanjali
+PJ028,patanjali,serso tel.jpg,serso tel,1000gm,115,115,patanjali
+PJ029,patanjali,sheetal oil.jpg,sheetal oil 100ml,100ml,55,55,patanjali
+PJ030,patanjali,sona masoori rice.jpg,sona masoori rice,1000gm,80,80,patanjali
+PJ031,patanjali,soya bean oil 1L.jpg,soya bean oil 1L,1000gm,170,170,patanjali
+PJ032,patanjali,soyabean oil 5L.jpg,soyabean oil 5L,5000gm,800,800,patanjali
+PJ033,patanjali,soyabean_refined oil 1l.jpg,soyabean refined oil 1L,1000gm,160,160,patanjali
+PJ034,patanjali,sun flower oil.jpg,sun flower refined oil 1 L,1000gm,100,100,patanjali
+PJ035,patanjali,sunflower oil 5l.jpg,sun flower refined oil 5L,5000gm,825,825,patanjali
+PJ036,patanjali,turmeric powder.jpg,turmeric powder,100gm,24,24,patanjali
+PJ037,patanjali,unpolished chana 1kg.jpg,unpolished chana 1kg,1000gm,102,102,patanjali
+PJ038,patanjali,urad chika unpolished.jpg,unpolished urad chika,1000gm,154,154,patanjali
+PJ039,patanjali,wagh bakri.jpg,wagh bakri,500gm,240,240,patanjali
+PJ040,patanjali,whole wheat atta.jpg,traditional whole wheat chakki atta (with bran),5000gm,175,175,patanjali
+bb001,Amul,amul_rusk.png,amul rusk,200g x 3,90,90,cookies  
+bb002,parle,parle _rusk.png,parle rusk,200g x 3,90,90,cookies  
+bb003,britannia,good day.png,good day cashew cookkies,combo of 3,90,90,cookies  
+bb004,sunfeast,IMG-20200702-WA0027.png,yeppi noodles,combo of 5,50,50,cookies  
+bb005,sunfeast,IMG-20200702-WA0027.png,yeppi noodles,jombo pack,50,50,cookies  
+bb006,maggi,IMG-20200702-WA0029.jpg,maggi masala spicy,jombo pack,50,50,cookies  
+bb007,modern,IMG-20200702-WA0031.png,modern bread,1 pack,30,30,cookies  
+bb008,britannia,IMG-20200702-WA0033.png,britannia rusk,1 pack,30,30,cookies  
+bb009,haldiram,IMG-20200702-WA0064.png,bhujia sev,1 pack,30,30,cookies  
+bb010,haldiram,IMG-20200702-WA0068.png,plain bhujia,1 pack,30,30,cookies  
+bb011,lijjak papad,IMG-20200702-WA0069.png,lijjak papaad,250g,186,186,cookies  
+bb012,haldiram,IMG-20200702-WA0072.png,bhel puri,300g,100,100,cookies  
+bb013,haldiram,IMG-20200702-WA0072.png,bhel puri,150g,55,55,cookies  
+bb014,parle,hide&seek (2).jpg,hide&seek,0,0,0,cookies  
+bb015,sunfeast ,IMG-20200702-WA0010.jpg,sunfeast ,0,0,0,cookies  
+bb016,britannia,IMG-20200702-WA0014.jpg,marie gold,0,0,0,cookies  
+bb017,parle,IMG-20200702-WA0016.jpg,parle g,0,0,0,cookies  
+bb018,Amul,IMG-20200702-WA0019.jpg,amul chocolate cookies,0,0,0,cookies  
+bb019,maggi,IMG-20200702-WA0035.jpg,maggi masala spicy,combo of 6,60,60,cookies  
+bb020,dairy milk ,IMG-20200702-WA0052.jpg,cadbury,1 pcs,60,60,cookies  
+bb021,chintale bandu,IMG-20200702-WA0054.jpg,bhakarwadi,500g,0,0,cookies  
+bb022,parle,namkeen khatta meetha.jpg,namkeen khatta meetha,500g,0,0,cookies  
+bb023,parle,namkeen aloo bhujia.jpg,namkeen aloo bhujia,500g,0,0,cookies  
+bb024,parle,moong dal.jpg,moong dal,500g,0,0,cookies  
+bb025,haldiram,haldiram khatta meetha.jpg,khatta meetha,500g,0,0,cookies  
+bb026,haldiram,haldiraminstant bhel.jpg,instant bhel puri,300g,100,100,cookies  
+bb027,haldiram,haldiram plain bhujia.jpg,plain bhujia,1 pack,30,30,cookies  
+bb028,paper boat,aam.jpg,paper boat aam papad,combo of 60,60,60,cookies  
+bb029,paper boat,chikki.jpg,chikki,combo of 60,60,60,cookies  
+DH001,dhara,dhara_kachi_ghani_mustard_1L.png,kachi ghani mustard,1l,190,190,cooking oil
+DH002,dhara,dhara_nourish_refined_sf_1L.png,nourish refined sunflower oil,1l,170,170,cooking oil
+DH003,dhara,dhara_ricebran_5L.png,refined ricebran oil,5l,175,175,cooking oil
+DH004,dhara,jiwan_dhara_cottonseed_1L.png,jiwan dhara refined cottonseed oil - 1L,1l,216,216,cooking oil
+DH005,dhara,jiwan_dhara_cottonseed_5L.png,jiwan dhara refined cottonseed oil - 5L,5l,913,913,cooking oil
+DH006,dhara,jiwan_dhara_mustard_5L.png,jiwan dhara pure mustard oil - 5L,5l,925,925,cooking oil
+DH007,dhara,jiwan_dhara_soyabean_1L.png,jiwan dhara refined soyabean oil - 1L-bottle,1l,207,207,cooking oil
+DH008,dhara,jiwan dhara refined soyabean oil - 1L-pouch.png,jiwan dhara refined soyabean oil - 1L-pouch,1l,207,207,cooking oil
+DH009,dhara,jiwan_dhara_soyabean_5L.png,jiwan dhara refined soyabean oil - 5L,5l,955,955,cooking oil
+DH010,dhara,jiwan_dhara_vanaspati_1L,jiwan dhara vanaspati,1l,170,170,cooking oil
+FN001,fortune,fortune_expert_pro_sugar.png,fortune expert pro sugar - 5L,5l,795,795,cooking oil
+FN002,fortune,fortune expert pro sugar - 1L.png,fortune expert pro sugar - 1L,1l,150,150,cooking oil
+FN003,fortune,fortune_kachi_ghani.png,fortune kachi ghani - 1L,1l,186,186,cooking oil
+FN004,fortune,fortune_kachi_ghani_5L.png,fortune kachi ghani - 5L,5l,1094,1094,cooking oil
+FN005,fortune,fortune_rice_brain_health.png,fortune ricebran oil - 1L,1l,185,185,cooking oil
+FN006,fortune,fortune_rice_brain_health_5L.png,fortune ricebran health oil - 5L,5l,700,700,cooking oil
+FN007,fortune,fortune_soya.png,fortune soya health,1l,185,185,cooking oil
+FN008,fortune,fortune_sunlite.png,sunlite refined sunflower oil - 1L,1l,233,233,cooking oil
+FN009,fortune,fortune_sunlite_5L,sunlite refined sunflower oil - 5L,5l,945,945,cooking oil
+GE001,gemini,Gemini_groundnut_1L.png,gemini filtered groundnut oil - 1L,1l,200,200,cooking oil
+GE002,gemini,Gemini_groundnut_5L.png,gemini filtered groundnut oil - 5L,5l,1030,1030,cooking oil
+GE003,gemini,Gemini_refined_groundnut_1L.png,gemini refined groundnut oil,1l,210,210,cooking oil
+GE004,gemini,Gemini_refined_ricebran_1L.png,gemini ricebran oil - 1L,1l,155,155,cooking oil
+GE005,gemini,Gemini_refined_ricebran_5L.png,gemini ricebran oil - 5L,5l,775,755,cooking oil
+GE006,gemini,Gemini_refined_soyabean_5L.png,gemini refined soyabean oil,5l,830,830,cooking oil
+GE007,gemini,Gemini_refined_sunflower_1L.png,gemini refined sunflower oil - 1L,1l,225,225,cooking oil
+GE008,gemini,Gemini_refined_sunflower_5L.png,gemini refined sunflower oil - 5L,5l,1005,1005,cooking oil
+GE009,gemini,Gemini_vanaspati_1L.png,gemini vanaspati,1l,145,145,cooking oil
+NF001,nature fresh,nature_fresh_actilite.png,acti-lite refined sunflower oil - 1L,1l,220,220,cooking oil
+NF002,nature fresh,naturefresh_refine_sunflw_1L.png,acti-lite refined sunflower oil - 5L,5l,650,650,cooking oil
+SA001,saffola,saffola_active_5L.png,saffola active - 5L,5l,880,880,cooking oil
+SA002,saffola,saffola_gold_1L.png,saffola gold,1l,190,190,cooking oil
+SA003,saffola,saffola_tasty_5L.png,saffola tasty,5l,875,875,cooking oil
+SD001,sundrop,sundrop_goldlite_1L.png,sundrop gold lite,1l,140,140,cooking oil
+SD002,sundrop,sundrop_heart_2L.png,sundrop heart - 2L,2l,426,426,cooking oil
+SD003,sundrop,sundrop_lite_5L.png,sundrop lite - 5L,5l,1065,1065,cooking oil
+SD004,sundrop,sundrop_lite_oil_1L.png,sundrop lite - 1L,1l,170,170,cooking oil
+SD005,sundrop,sundrop_superlite_advanc_3L.png,sundrop superlite advanced- 3L,3l,539,539,cooking oil
+SD006,sundrop,sundrop_superlite_advanc_5L,sundrop superlite advanced- 5L,5l,1340,1340,cooking oil
+FN001,fortune,fortune_expert_pro_sugar.png,fortune expert pro sugar - 5L,5l,795,795,cooking oil
+FN002,fortune,fortune expert pro sugar - 1L.png,fortune expert pro sugar - 1L,1l,150,150,cooking oil
+FN003,fortune,fortune_kachi_ghani.png,fortune kachi ghani - 1L,1l,186,186,cooking oil
+FN004,fortune,fortune_kachi_ghani_5L.png,fortune kachi ghani - 5L,5l,1094,1094,cooking oil
+FN005,fortune,fortune_rice_brain_health.png,fortune ricebran oil - 1L,1l,185,185,cooking oil
+FN006,fortune,fortune_rice_brain_health_5L.png,fortune ricebran health oil - 5L,5l,700,700,cooking oil
+FN007,fortune,fortune_soya.png,fortune soya health,1l,185,185,cooking oil
+FN008,fortune,fortune_sunlite.png,sunlite refined sunflower oil - 1L,1l,233,233,cooking oil
+FN009,fortune,fortune_sunlite_5L,sunlite refined sunflower oil - 5L,5l,945,945,cooking oil
+GE001,gemini,Gemini_groundnut_1L.png,gemini filtered groundnut oil - 1L,1l,200,200,cooking oil
+GE002,gemini,Gemini_groundnut_5L.png,gemini filtered groundnut oil - 5L,5l,1030,1030,cooking oil
+GE003,gemini,Gemini_refined_groundnut_1L.png,gemini refined groundnut oil,1l,210,210,cooking oil
+GE004,gemini,Gemini_refined_ricebran_1L.png,gemini ricebran oil - 1L,1l,155,155,cooking oil
+GE005,gemini,Gemini_refined_ricebran_5L.png,gemini ricebran oil - 5L,5l,775,755,cooking oil
+GE006,gemini,Gemini_refined_soyabean_5L.png,gemini refined soyabean oil,5l,830,830,cooking oil
+GE007,gemini,Gemini_refined_sunflower_1L.png,gemini refined sunflower oil - 1L,1l,225,225,cooking oil
+GE008,gemini,Gemini_refined_sunflower_5L.png,gemini refined sunflower oil - 5L,5l,1005,1005,cooking oil
+GE009,gemini,Gemini_vanaspati_1L.png,gemini vanaspati,1l,145,145,cooking oil
+NF001,nature fresh,nature_fresh_actilite.png,acti-lite refined sunflower oil - 1L,1l,220,220,cooking oil
+NF002,nature fresh,naturefresh_refine_sunflw_1L.png,acti-lite refined sunflower oil - 5L,5l,650,650,cooking oil
+SA001,saffola,saffola_active_5L.png,saffola active - 5L,5l,880,880,cooking oil
+SA002,saffola,saffola_gold_1L.png,saffola gold,1l,190,190,cooking oil
+SA003,saffola,saffola_tasty_5L.png,saffola tasty,5l,875,875,cooking oil
+SD001,sundrop,sundrop_goldlite_1L.png,sundrop gold lite,1l,140,140,cooking oil
+SD002,sundrop,sundrop_heart_2L.png,sundrop heart - 2L,2l,426,426,cooking oil
+SD003,sundrop,sundrop_lite_5L.png,sundrop lite - 5L,5l,1065,1065,cooking oil
+SD004,sundrop,sundrop_lite_oil_1L.png,sundrop lite - 1L,1l,170,170,cooking oil
+SD005,sundrop,sundrop_superlite_advanc_3L.png,sundrop superlite advanced- 3L,3l,539,539,cooking oil
+SD006,sundrop,sundrop_superlite_advanc_5L,sundrop superlite advanced- 5L,5l,1340,1340,cooking oil
+SD001,coco cola,coco cola can.jpeg,coco cola can,500ml,60,60,beverages
+SD002,frooti,frooti pack.jpeg,frooti,450ml,40,40,beverages
+SD003,frooti,frooti.jpeg,frooti,1l,65,65,beverages
+SD004,bisleri,IMG-20200702-WA0021.jpg,bisleri (pack of 12),250ml,60,60,beverages
+SD005,bisleri,IMG-20200702-WA0022.jpg,bisleri mineral water,2l,30,30,beverages
+SD006,paper boat,IMG-20200702-WA0057.jpg,jaljeera (pack of 3),180ml,90,90,beverages
+SD007,paper boat,IMG-20200702-WA0058.jpg,chilli guava (pack of 3),180ml,90,90,beverages
+SD008,paper boat,IMG-20200702-WA0060.jpg,coconut water (pack of 15),180ml,50,50,beverages
+SD009,paper boat,IMG-20200702-WA0061.jpg,anar juice coconut water,180ml+200ml,80,80,beverages
+SD010,paper boat,IMG-20200702-WA0063.jpg,lychee ras,200ml,25,25,beverages
+SD011,maaza,maaza 500ml.jpeg,maaza mango,500ml,40,40,beverages
+SD012,mountain dew,mountain dew can.jpeg,mountain dew can,500ml,60,60,beverages
+SD013,mountain dew,mountain dew.jpeg,mountain dew,500ml,40,40,beverages
+SD014,pepsi,pepsi 500ml.jpeg,pepsi,500ml,40,40,beverages
+SD015,real,real mixed fruits 1L.jpeg,real mixed fruits,1L,110,110,beverages
+SD016,real,real mixed fruits 200ml.jpeg,real mixed fruits,180ml,20,20,beverages
+SD017,brooke bond,red label box.jpg,red label,500g,350,350,beverages
+SD018,brooke bond,red label2.jpeg,red label,1kg,490,490,beverages
+SD019,parle mango,slice 1L.jpeg,slice,1L,0,0,beverages
+SD020,parle mango,slice 1L.jpeg,slice,500ml,40,40,beverages
+SD021,sprite,sprite party pack.jpeg,sprite,2.24L,0,0,beverages
+SD022,thumsup,thumsup family pack.jpeg,thumsup fridge pack,1.25l,65,65,beverages
+SD023,maaza,maaza 500ml.jpeg,maaza mango,1l,70,70,beverages
+SD024,tropicana,tropicana 100% orange juice.jpeg,tropicana 100% orange juice,1l,110,110,beverages
+SD025,sting,"Sting Energy Drink, 250 ml Can mrp 35.png","Sting Energy Drink, 250 ml Can",250ml,35,35,beverages
+SD026,sting,"Sting Sting Energy drink, 3x250ml Multipack mrp105.png","Sting Sting Energy drink, 3x250ml Multipack",3x250ml Multipack,105,105,beverages
+SD027,sting,"Sting Energy Drink, 4x250 ml Multipack mrp140.png","Sting Energy Drink, 4x250 ml Multipack ",4x250 ml Multipack,140,140,beverages
+SD028,sting,"Sting Energy Drink, 6X250 ml MultiPack mrp210.PNG","Sting Energy Drink, 6X250 ml MultiPack",6X250 ml MultiPack,210,210,beverages
+TE001,brook bond,brook bond 500gm.jpeg,taj mahal tea,500g,330,330,staples tea
+TE002,brook bond,brook bond 500gm.jpeg,taj mahal tea,500ml,700,660,staples tea
+TE003,bru,bru instant.jpeg,bru instant,coming soon,0,0,staples tea
+TE004,lipton,lipton 312 packs2.jpeg,lipton tea 312packs,750g,0,969,staples tea
+TE005,lipton,lipton black tea 250gm.jpeg,lipton black tea,250g,,,staples tea
+TE006,nescafe,nescafe classic 500gm.jpeg,nescafe classic,500g,1074,1074,staples tea
+TE007,nescafe,nescafe classic pack.jpeg,nescafe classic,50g,140,115,staples tea
+TE008,nescafe,nescafe gold coffee.jpeg,nescafe gold coffee,100g,800,460,staples tea
+TE009,nescafe,nescafe classic.jpeg,nescafe classic,200g,550,530,staples tea
+TE010,nescafe,nescafe gold coffee.jpeg,nescafe gold coffee,200g,900,764,staples tea
+TE011,hasmukhrai & co.,society tea 500gm.jpg,society tea,500g,280,268,staples tea
+TE012,hasmukhrai & co.,society tea 1kg 500rs.jpeg,society tea,1kg,500,500,staples tea
+TE013,brooke bond,taaza masala chaska.jpeg,taaza masala chaska,250g,0,0,staples tea
+TE014,brooke bond,taaza tea.jpeg,taaza masala chaska,500g,0,230,staples tea
+TE015,tata,tata coffe grand bottle.jpeg,tata coffe grand,,103,104,staples tea
+TE016,tata,tata coffe grand bottle.jpeg,tata coffe grand,50g,145,145,staples tea
+TE017,tata,tata tea goold.jpeg,tata tea gold,500g,290,290,staples tea
+TE018,tata,tata tea premium.jpeg,tata tea premium,500g,250,250,staples tea
+TE019,wagh bakri tea,wagh bakri tea.jpeg,wagh bakri tea,1kg,535,535,staples tea
+MA001,24 mantra,24_mantra_garam_masala.png,organic garam masala,50GM ,75,75,masala
+MA002,24 mantra,24_mantra_turmeric.png,organic turmeric | haldi,100GM,40,40,masala
+MA003,24 mantra,24_mantraajwain.png,organic ajwain,500GM,80,80,masala
+MA004,aachi,aachi_dhaniyapwder.png,coriander | dhaniya powder,500GM,142,142,masala
+MA005,aachi,Aachi_garam_masala.png,garam masala,50GM,30,30,masala
+MA006,aachi,aachi_hing_powder.png,compounded asafoetida | hing powder,50GM,80,80,masala
+MA007,aachi,aachi_jeera.png,cumin | jeera powder,100GM,57,57,masala
+MA008,aachi,Aachi_kasuri_methi.png,kasuri methi,100GM,75,75,masala
+MA009,aachi,Aachi_turmeric.png,turmeric| haldi powder,100GM,28,28,masala
+MA010,aachi,Acchi_kasmiri_chiili.png,kashmiri chilli powder,100GM,82,82,masala
+MA011,everest,Everesr_garam_masala.png,garam masala,50GM,34,34,masala
+MA012,everest,everesr_hot_chilli.png,hot chilli tikhalal powder,100GM,150,150,masala
+MA013,everest,Everest Hing Powder.png,hing powder,50GM,75,75,masala
+MA014,everest,everest_dhaniya_powder.png,coriander | dhaniya powder,100GM,28,28,masala
+MA015,everest,Everest_jeera.png,cumin | jeera powder,50GM,36,36,masala
+MA016,everest,Everest_kasuri_methi.png,kasuri methi,50GM,46,46,masala
+MA017,everest,Everest_turmeric.png,turmeric| haldi powder,100GM,28,28,masala
+MA018,everest,Everest-Kali-Mirch-Powder.png,kali mirch powder,100GM,150,150,masala
+MA019,goldii,goldii_roasted_jeera.png,goldii roasted cumin | jeera,100GM,50,50,masala
+MA020,mdh,MDH_chunky_chaat_masala.png,chunky chaat masala,100GM,65,65,masala
+MA021,mdh,MDH_dhaniya_powder.png,dhaniya powder,100GM,30,30,masala
+MA022,mdh,mdh_garam_masala.png,garam masala,50GM,29,29,masala
+MA023,mdh,MDH_jeera.png,cumin | jeera powder,100GM,199,199,masala
+MA024,mdh,mdh_kalimirch.png,kali mirch powder,100GM,199,199,masala
+MA025,mdh,MDH_kasoori_methi.png,kasuri methi,50GM,46,46,masala
+MA026,mdh,mdh_lal_mirch.png,lal mirch powder,500GM,200,200,masala
+MA027,vandevi,vandevi hing,vandevi hing powder,200GM,272,272,masala
+VG001,APNADAILY,beet.png,Beet,500 gms,0,25,vegetables
+VG002,APNADAILY,Bittermelo.png,Bittermelo,200gm,0,36,vegetables
+VG003,APNADAILY,cabage.png,cabage,1 pcs,0,15,vegetables
+VG004,APNADAILY,cabbage 2.png,cabage,3 pcs,0,40,vegetables
+VG005,APNADAILY,capsicum.png,Capsicum (Shimla),250g,0,16,vegetables
+VG006,APNADAILY,capsicum.png,Capsicum (Shimla),500 gms,0,30,vegetables
+VG007,APNADAILY,carrot.png,Carrot Orange (local),500 gms,0,35,vegetables
+VG008,APNADAILY,Coriander leaves.png,Coriander leaves,100g,0,15,vegetables
+VG009,APNADAILY,cucumber.png,Cucumber Green Indian (Kakdi),500 gms,0,35,vegetables
+VG010,APNADAILY,drumstick.png,drumstick,100g,0,10,vegetables
+VG011,APNADAILY,jinger.png,jinger,100g,0,10,vegetables
+VG012,APNADAILY,MINT.png,Mint Leaves,100gm,0,15,vegetables
+VG013,APNADAILY,onion.png,onion,1kg,0,20,vegetables
+VG014,APNADAILY,parwal.png,Parwal,200gm,0,35,vegetables
+VG015,APNADAILY,potato.PNG,Baby Potato,1kg,0,19,vegetables
+VG016,APNADAILY,potato.PNG,potato,1kg,0,29,vegetables
+VG017,APNADAILY,RIDGE GOURD 40rs.png,Ridge Gourd (Turai),250g,0,28,vegetables
+VG018,APNADAILY,snake gourd.png,Snake Gourd (Bada Parwal),500 gms,0,40,vegetables
+VG019,APNADAILY,spinach_palak..png,palak,0,0,0,vegetables
+VG020,APNADAILY,tomoto.png,tomoto,500 gms,0,40,vegetables
+VG021,APNADAILY,Super Saver Combo (1 Kg Potato+ 1 Kg Tomato).png,Super Saver Combo (1 Kg Potato+ 1 Kg Tomato),2kg,0,60,vegetables
+VG022,APNADAILY,"3 Kg POT Combo (1 Kg Each, Potato + Tomato + Onion).jpg","3 Kg POT Combo (1 Kg Each, Potato + Tomato + Onion)",3kg,0,69,vegetables
+VG023,APNADAILY,brinjal.jpg,brinjal,500g,0,30,vegetables
+VG024,APNADAILY,Pumpkin Green.png,Pumpkin Green,500g,0,40,vegetables
+VG025,APNADAILY,Ladies Finger (bhindi).png,Ladies Finger (bhindi),500g,0,29,vegetables
+VG026,APNADAILY,Cauliflower.png,Cauliflower,1 pcs,0,30,vegetables
+FR001,apna daily,apple.png,apple,1 kg,,120,fruits
+FR002,apna daily,banana.png,banana,1 dorzon,,45,fruits
+FR003,apna daily,black_watermelon.png,black_watermelon,2 pcs,,50,fruits
+FR004,apna daily,dragon_fruit.png,dragon_fruit,1pcs,,45,fruits
+FR005,apna daily,gooseberry_amla.png,gooseberry_amla,500gm,,95,fruits
+FR006,apna daily,grapes_black.png,grapes_black,1 kg,,120,fruits
+FR007,apna daily,grapes_green.png,grapes_green,1 kg,,120,fruits
+FR008,apna daily,guava.png,guava,1 kg,,65,fruits
+FR009,apna daily,guava_red.png,guava_red,1 kg,,75,fruits
+FR010,apna daily,kiwi.png,kiwi,6 pcs,,120,fruits
+FR011,apna daily,mango.png,ratnagiri mango,12 pcs,,850,fruits
+FR012,apna daily,mosumbi.png,mosumbi,1 kg,,80,fruits
+FR013,apna daily,orange.png,orange,1 kg,,80,fruits
+FR014,apna daily,papaya.png,papaya,1 pcs,,60,fruits
+FR015,apna daily,peach.png,peach,500 gm,,120,fruits
+FR016,apna daily,pears.png,pears,1 kg,,200,fruits
+FR017,apna daily,pineapple.png,pineapple,1 pcs,,79,fruits
